@@ -1,10 +1,4 @@
 Create on WebUI 
-<<<<<<< HEAD
-<<<<<<< HEAD
 conflit Local
-=======
-=======
-
->>>>>>> 6165e02a9d438105e2e83d5df720e2734611fd7c
 conflit 1 web
->>>>>>> 8ae66ba1a136584da18e43e3b18e764b1e96fb26
+
